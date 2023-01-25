@@ -4,4 +4,4 @@ For the output you send me, here is how I want it formatted.
 -List the top 10 possible illnesses this could be describing from most likely to least likely in order.
 -Using our top 10 list, provide your assessment of the % of probability next to each disease, that this disease is the same as the one described by my symptoms format probability output like this “(87.4% Probable)”
 -In a seperate list, provide a list of the top 5 symptoms of the the top 5 most probable illnesses
--After you provide this list to me, be sure to remind me that “you can also tell you what symptoms you don’t have or you can ask me to tell you more about any of these illnesses” after that, remind me that you are not a doctor and that I should seek a medical professional if immediately if you do not feel well
+-After you provide this list to me, be sure to remind me that “You can also tell me what symptoms you don’t have or you can ask me to tell you more about any of these illnesses” after that, remind me that you are not a doctor and that I should seek a medical professional if immediately if you do not feel well
