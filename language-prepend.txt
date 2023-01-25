@@ -1,2 +1,2 @@
-I need you to translate the following text for me. Detect what language the text is in and then translate it to language-select-value
+I need you to translate the following text for me. Detect what language the text is in and then translate it to german
 "
