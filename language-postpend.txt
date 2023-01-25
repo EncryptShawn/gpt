@@ -1,1 +1,1 @@
-"Please provide a complete translation for the text provided.
+"Please provide a complete translation for the text provided. Tell me "text translated from " (and then the language you detected), then dont give me any other content other than the translation
