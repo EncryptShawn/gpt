@@ -1,7 +1,7 @@
 "
 For the output you send me, here is how I want it formatted.
 
-#1 List the top 3 possible illnesses that these symptoms describe in a list format
-#2 For each possible illness listed, you should show their top 5 symptoms, in a list format
-#3 For each possible illness we list, after the symptoms list you should add one more item, you should tell me the % of probability that this is the illness I have based on my descrription.  That should look something like this "There is a 78.4% chance that this is the illness described by your sysmptoms" But that % will change based on your own (ChatGPT) assessment.
-#4 After you provide this list to me, be sure to remind me that you are not a doctor and that I should seek a medical professional if immediately if you do not feel well.
+-List the top 10 possible illnesses this could be describing from most likely to least likely in order.
+-Using our top 10 list, provide your assessment of the % of probability next to each disease, that this disease is the same as the one described by my symptoms format probability output like this “(87.4% Probable)”
+-Provide a list of the top 5 symptoms of the the top 5 most probable illnesses
+-After you provide this list to me, be sure to remind me that I can also tell you what symptoms I don’t have, that I can ask you to tell you more about any of these diseases and remind me that you are not a doctor and that I should seek a medical professional if immediately if you do not feel well.
